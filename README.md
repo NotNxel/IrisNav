@@ -1,14 +1,21 @@
-# IrisNav
-IrisPointer is an innovative eye-controlled mouse interface designed to enhance accessibility and provide a hands-free interaction experience. By leveraging real-time eye-tracking technology, IrisPointer enables users to navigate and control their computer using only their gaze.
+# 👁️ IrisNav
 
-# Key Features:
+IrisNav is a futuristic eye-controlled mouse interface that allows users to navigate and interact with their computer using just their gaze. Designed for accessibility and innovation, IrisNav uses real-time eye-tracking to bring you hands-free control with precision and style.
 
-Accurate eye-tracking for pointer movement
+## 🚀 Features
 
-Blink-based click system
+-  Real-time eye-tracking for cursor movement  
+-  Blink detection for clicking actions  
+-  Smart calibration and smoothing  
+-  Accessibility-friendly interface  
+-  Lightweight and easy to use  
 
-Calibration and smoothing algorithms for precision
+---
 
-Designed for accessibility, productivity, and futuristic interfaces
+## 📦 Installation
 
-Whether for individuals with limited mobility or users seeking a cutting-edge human-computer interaction method, IrisPointer offers a seamless and intuitive experience.
+1. Clone this repository:
+```bash
+git clone https://github.com/NotNxel/IrisNav.git
+cd IrisNav
+
