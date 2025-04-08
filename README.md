@@ -1,4 +1,4 @@
-# 👁️ IrisNav
+# IrisNav
 
 IrisNav is a futuristic eye-controlled mouse interface that allows users to navigate and interact with their computer using just their gaze. Designed for accessibility and innovation, IrisNav uses real-time eye-tracking to bring you hands-free control with precision and style.
 
