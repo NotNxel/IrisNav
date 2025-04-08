@@ -1,7 +1,7 @@
 # IrisNav
 IrisPointer is an innovative eye-controlled mouse interface designed to enhance accessibility and provide a hands-free interaction experience. By leveraging real-time eye-tracking technology, IrisPointer enables users to navigate and control their computer using only their gaze.
 
-Key Features:
+# Key Features:
 
 Accurate eye-tracking for pointer movement
 
